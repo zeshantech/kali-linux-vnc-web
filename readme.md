@@ -55,4 +55,4 @@ The container provides a lightweight Kali Linux desktop environment that can be 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Support
-For any support mail me on [zeshanshakil0@gmail.com](mailto: zeshanshakil0@gmail.com)
+For any support mail me on [zeshanshakil0@gmail.com](mailto:zeshanshakil0@gmail.com)
