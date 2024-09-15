@@ -1,8 +1,8 @@
 # Kali Linux Docker with GUI and noVNC
 
-This project allows you to run **Kali Linux** with a fully functional **GUI** using **XFCE** inside a **Docker** container, accessible through your web browser via **noVNC**.
+This project allows you to run **Kali Linux** with a fully functional inside a **Docker** container, accessible through your web browser via **noVNC**.
 
-The container provides a lightweight Kali Linux desktop environment that can be accessed remotely, making it easy to run penetration testing tools without directly installing Kali on your system.
+The container provides a lightweight Kali Linux desktop environment that can be accessed with GUI on Web
 
 ## Features
 
@@ -20,7 +20,7 @@ The container provides a lightweight Kali Linux desktop environment that can be 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/kali-linux-vnc-web.git
+    git clone https://github.com/zeshantech/kali-linux-vnc-web.git
     cd kali-linux-vnc-web
     ```
 
@@ -54,3 +54,5 @@ The container provides a lightweight Kali Linux desktop environment that can be 
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+## Support
+For any support mail me on [zeshanshakil0@gmail.com](mailto: zeshanshakil0@gmail.com)
