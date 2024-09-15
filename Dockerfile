@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y \
     xvfb \
     xfce4 \
     xfce4-terminal \
+    dbus-x11 \
     wget \
     supervisor \
     && apt-get clean
@@ -31,4 +32,3 @@ COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 # Start all services
 CMD ["/usr/bin/supervisord"]
-
